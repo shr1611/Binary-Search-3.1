@@ -1,7 +1,7 @@
 # Binary-Search-3.1
 
 ## Problem1
-Optimize Air Routes (https://leetcode.com/discuss/interview-question/318918/amazon-online-assessment)
+Optimize Air Routes 
 
 There are 3 things to be known before attempting this problem:
 maxTravelDist, it is an integer which represents the maximum operating travel distance of the given aircraft;
